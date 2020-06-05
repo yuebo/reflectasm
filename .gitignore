@@ -1,0 +1,13 @@
+# Temporary Files
+*~
+.*.swp
+.DS_STORE
+.idea
+.classpath
+.project
+
+
+build/
+lib/
+bin/
+target/
